@@ -7,10 +7,11 @@ using Exo.WebApi.Contexts;
  public class UsuarioRepository
  {
  private readonly ExoContext _context;
- public UsuarioRepository(ExoContext context)
- {
- _context = context;
- }
+        public UsuarioRepository(ExoContext context)
+        {
+            _context = context;
+        }
+                /* MÉTODO DE LOGIN */
  public Usuario Login(string email, string senha)
  {
  return _context.Usuarios.FirstOrDefault(u => u.Email == 
