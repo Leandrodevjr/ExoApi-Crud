@@ -273,3 +273,4 @@ C:\Users\leand\OneDrive\Desktop\SENAI EAD\Desenvolvimento de APIs\MATERIAL-PARA-
 C:\Users\leand\OneDrive\Desktop\SENAI EAD\Desenvolvimento de APIs\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.pdb
 C:\Users\leand\OneDrive\Desktop\SENAI EAD\Desenvolvimento de APIs\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\leand\OneDrive\Desktop\SENAI EAD\Desenvolvimento de APIs\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\ref\Exo.WebApi.dll
+C:\Users\leand\OneDrive\Desktop\SENAI EAD\Desenvolvimento de APIs\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.sourcelink.json
